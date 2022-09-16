@@ -1,6 +1,34 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8386947&assignment_repo_type=AssignmentRepo)
+![imagen](https://user-images.githubusercontent.com/105946879/190537079-9f42c36d-94aa-41ca-be81-ac24336d6c8c.png)
+
+# Grupo 5
+
+### Grupo para la práctica cuatrimestral de la materia Sensores y Actuadores.
+
+## Docentes:
+
+- Gonzalo Vera
+
+- Jorge Morales
+
+
+## Integrantes:
+
+- Silvana Barea
+
+- Mauro Martinez
+
+- Celeste Suarez
+
+- Ernesto Canio
+
+- Juan Diego Gonzalez Antoniazzi
+
+- Ivan Canio
+
+
 # PracticaSemana1
-Repositorio de practica de la primer semana de la materia Sensores y Actuadores
+
+### Repositorio de practica de la primer semana de la materia Sensores y Actuadores
 
 ![image](https://user-images.githubusercontent.com/84986194/188350512-fd45d679-2f56-4769-9a6d-84e195238634.png)
 
